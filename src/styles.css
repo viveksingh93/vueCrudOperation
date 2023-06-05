@@ -1,0 +1,13 @@
+body{
+    background-color: #f0fdf0;
+}
+
+.contact-img{
+    width: 150px;
+    border-radius: 50%;
+}
+
+.contact-img-big{
+    width: 200px;
+    border-radius: 50%;
+}
